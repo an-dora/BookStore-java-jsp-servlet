@@ -14,9 +14,10 @@
 
     3. Import database from file "bookstore.sql"
 
-    4. Update connect to MySQL
+    4. Update connect to MySQL "src/com/zh/util/Dbcp.java"
 
-        src/com/zh/util/Dbcp.java
+    5. Update maven
+
 ## Authors
 
 - [@zhcppy](https://github.com/zhcppy)
